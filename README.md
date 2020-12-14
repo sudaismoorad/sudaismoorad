@@ -24,6 +24,8 @@
 <img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
 <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />
 
+<br />
+
 --- 
 
 <img align="left" alt = "Sudais Moorad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudaismoorad&show_icons=true&hide_border=true&count_private=true" />

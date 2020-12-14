@@ -13,16 +13,16 @@
 <br />
 
 ### Langauges and Tools:
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
-[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][]
-[<img align="left" alt="Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/go.svg" />][]
-[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][]
-[<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />]
-[<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />]
-[<img align="left" alt="Next.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg" />]
-[<img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />]
-[<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />]
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />
+<img align="left" alt="Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/go.svg" />
+<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /
+<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img align="left" alt="Next.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg" />
+<img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
+<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />
 
 --- 
 
@@ -32,5 +32,5 @@
 
 [website]: https://smoorad.dev
 [twitter]: https://twitter.com/sudaismoorad
-[gmail]: "mooradsudais@gmail.com"
-[python]: "https://www.python.org/"
+[gmail]: mailto:mooradsudais@gmail.com
+
